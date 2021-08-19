@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Hello!%20&height=150&fontSize=50&fontAlign=30&textBg=true&desc=I'm%20NASA%20GukJang&&descSize=35&descAlign=67&descAlignY=52&animation=scaleIn)
-<div align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNASA-GukJang&count_bg=%234378D1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></div>
 
 ### 👋 About Me
 * ##### I'm a **Student** who just started developing 💻
