@@ -17,5 +17,14 @@
 * #### Learning how to develop **Android Application with Kotlin**<br></br>
 
 ### 📊 My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NASA-GukJang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
-<a href="https://solved.ac/gukjang1997"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gukjang1997" /></a>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NASA-GukJang&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
+<a href="https://solved.ac/gukjang1997"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gukjang1997" /></a> -->
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NASA-GukJang&langs_count=10&layout=compact" />&nbsp;&nbsp;
+  </a>
+  <a href="https://solved.ac/gukjang1997">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gukjang1997" />
+  </a>
+</div>
