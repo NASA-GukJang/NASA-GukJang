@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NASA-GukJang&langs_count=10&layout=compact&count_private=true" />&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NASA-GukJang&langs_count=10&layout=compact" />&nbsp;&nbsp;
   </a>
   <a href="https://solved.ac/gukjang1997">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gukjang1997" />
