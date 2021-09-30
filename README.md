@@ -5,25 +5,26 @@
 * #### Someday I could be a developer, right? 😂<br></br>
 
 ### ⭐️ Languages & Tools
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kotlin-5876D5?style=for-the-badge&logo=Kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-00AADC?&style=for-the-badge&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-F56133?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon_AWS-F6903E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 <br>
-<img src="https://img.shields.io/badge/MySQL-2B628E?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
-<br>
-<br>
+<img src="https://img.shields.io/badge/Ardroid_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/></a>
+<br><br>
 <img src="https://aleen42.github.io/badges/src/photoshop.svg"/></a>
 <img src="https://aleen42.github.io/badges/src/premiere.svg"/></a>
 <img src="https://aleen42.github.io/badges/src/after_effects.svg"/></a>
@@ -45,4 +46,8 @@
   <a href="https://solved.ac/gukjang1997">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gukjang1997" />
   </a>
+</div>
+<br>
+<div align="center">
+⭐️<img src="https://img.shields.io/badge/NASA-004088?style=for-the-badge&logo=NASA&logoColor=white"/></a>⭐️
 </div>
