@@ -33,7 +33,7 @@
 <!-- <img src="https://img.shields.io/badge/NodeJS-FA7343?style=for-the-badge&logo=JS&logoColor=white"/></a> -->
 
 ### 📚 Now I'm Doing...
-* #### Learning how to develop **Android Application with Kotlin**<br></br>
+* #### Developing my **First Android Application**<br></br>
 
 ### 📊 My Stats
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NASA-GukJang&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
