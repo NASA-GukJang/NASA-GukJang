@@ -28,6 +28,12 @@
 <img src="https://aleen42.github.io/badges/src/photoshop.svg"/></a>
 <img src="https://aleen42.github.io/badges/src/premiere.svg"/></a>
 <img src="https://aleen42.github.io/badges/src/after_effects.svg"/></a>
+<br><br>
+<a href="https://solved.ac/gukjang1997">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gukjang1997" />
+  <!-- api/v2/ -->
+ </a>
+
 ##### *(Sth that I've used at least once)*<br></br>
 
 <!-- <img src="https://img.shields.io/badge/NodeJS-FA7343?style=for-the-badge&logo=JS&logoColor=white"/></a> -->
@@ -43,11 +49,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NASA-GukJang&langs_count=10&layout=compact" />&nbsp;&nbsp;
   </a>
-  <a href="https://solved.ac/gukjang1997">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gukjang1997" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GukJang&layout=compact" />
   </a>
 </div>
+
 <br>
 <div align="center">
-⭐️<img src="https://img.shields.io/badge/NASA-004088?style=for-the-badge&logo=NASA&logoColor=white"/></a>⭐️
+  ⭐️<img src="https://img.shields.io/badge/NASA-004088?style=for-the-badge&logo=NASA&logoColor=white"/></a>⭐️
 </div>
